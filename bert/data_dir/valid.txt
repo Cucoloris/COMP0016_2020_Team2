@@ -1,0 +1,122 @@
+The Alchemist,Paulo Coelho,4.7,35799,39,2014,Fiction
+The Amateur,Edward Klein,4.6,2580,9,2012,Non Fiction
+The Art of Racing in the Rain: A Novel,Garth Stein,4.7,11813,10,2010,Fiction
+The Art of Racing in the Rain: A Novel,Garth Stein,4.7,11813,10,2011,Fiction
+The Big Short: Inside the Doomsday Machine,Michael Lewis,4.7,3536,17,2010,Non Fiction
+The Blood of Olympus (The Heroes of Olympus (5)),Rick Riordan,4.8,6600,11,2014,Fiction
+"The Blood Sugar Solution: The UltraHealthy Program for Losing Weight, Preventing Disease, and Feeling Great Now!",Mark Hyman M.D.,4.2,1789,14,2012,Non Fiction
+"The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",Bessel van der Kolk M.D.,4.8,12361,12,2019,Non Fiction
+The Book of Basketball: The NBA According to The Sports Guy,Bill Simmons,4.7,858,53,2009,Non Fiction
+The Book Thief,Markus Zusak,4.6,23148,6,2013,Fiction
+The Book Thief,Markus Zusak,4.6,23148,6,2014,Fiction
+The Book with No Pictures,B. J. Novak,4.8,8081,8,2014,Fiction
+The Book with No Pictures,B. J. Novak,4.8,8081,8,2015,Fiction
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown,4.8,23358,12,2014,Non Fiction
+The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown,4.8,23358,12,2015,Non Fiction
+The Casual Vacancy,J.K. Rowling,3.3,9372,12,2012,Fiction
+The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet…,Thomas Campbell,4.7,4633,21,2011,Non Fiction
+The Complete Ketogenic Diet for Beginners: Your Essential Guide to Living the Keto Lifestyle,Amy Ramos,4.3,13061,6,2018,Non Fiction
+The Complete Ketogenic Diet for Beginners: Your Essential Guide to Living the Keto Lifestyle,Amy Ramos,4.3,13061,6,2019,Non Fiction
+The Confession: A Novel,John Grisham,4.3,3523,13,2010,Fiction
+The Constitution of the United States,Delegates of the Constitutional,4.8,2774,0,2016,Non Fiction
+The Daily Show with Jon Stewart Presents Earth (The Book): A Visitor's Guide to the Human Race,Jon Stewart,4.4,440,11,2010,Non Fiction
+The Day the Crayons Quit,Drew Daywalt,4.8,8922,9,2013,Fiction
+The Day the Crayons Quit,Drew Daywalt,4.8,8922,9,2014,Fiction
+The Day the Crayons Quit,Drew Daywalt,4.8,8922,9,2015,Fiction
+"The Dukan Diet: 2 Steps to Lose the Weight, 2 Steps to Keep It Off Forever",Pierre Dukan,4.1,2023,15,2011,Non Fiction
+The Elegance of the Hedgehog,Muriel Barbery,4,1859,11,2009,Fiction
+The Fault in Our Stars,John Green,4.7,50482,13,2012,Fiction
+The Fault in Our Stars,John Green,4.7,50482,13,2013,Fiction
+The Fault in Our Stars,John Green,4.7,50482,7,2014,Fiction
+The Fault in Our Stars,John Green,4.7,50482,13,2014,Fiction
+The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,4.6,3207,6,2009,Non Fiction
+The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,4.6,3207,6,2010,Non Fiction
+The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,4.6,3207,6,2011,Non Fiction
+The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,4.6,3207,6,2012,Non Fiction
+The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,4.6,3207,6,2013,Non Fiction
+The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Gary Chapman,4.6,803,9,2009,Non Fiction
+The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,4.7,23308,6,2013,Non Fiction
+The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,4.7,23308,6,2015,Non Fiction
+The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,4.7,23308,6,2016,Non Fiction
+The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,4.7,23308,6,2017,Non Fiction
+The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,4.7,23308,6,2018,Non Fiction
+The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,4.7,23308,6,2019,Non Fiction
+The Getaway,Jeff Kinney,4.8,5836,0,2017,Fiction
+The Girl on the Train,Paula Hawkins,4.1,79446,18,2015,Fiction
+The Girl on the Train,Paula Hawkins,4.1,79446,7,2016,Fiction
+The Girl Who Kicked the Hornet's Nest (Millennium Trilogy),Stieg Larsson,4.7,7747,14,2010,Fiction
+The Girl Who Kicked the Hornet's Nest (Millennium Trilogy),Stieg Larsson,4.7,7747,14,2011,Fiction
+The Girl Who Played with Fire (Millennium Series),Stieg Larsson,4.7,7251,9,2010,Fiction
+The Girl Who Played with Fire (Millennium),Stieg Larsson,4.7,7251,16,2009,Fiction
+The Girl with the Dragon Tattoo (Millennium Series),Stieg Larsson,4.4,10559,2,2009,Fiction
+The Girl with the Dragon Tattoo (Millennium Series),Stieg Larsson,4.4,10559,2,2010,Fiction
+The Going-To-Bed Book,Sandra Boynton,4.8,5249,5,2016,Fiction
+The Going-To-Bed Book,Sandra Boynton,4.8,5249,5,2017,Fiction
+The Goldfinch: A Novel (Pulitzer Prize for Fiction),Donna Tartt,3.9,33844,20,2013,Fiction
+The Goldfinch: A Novel (Pulitzer Prize for Fiction),Donna Tartt,3.9,33844,20,2014,Fiction
+The Great Gatsby,F. Scott Fitzgerald,4.4,11616,7,2012,Fiction
+The Great Gatsby,F. Scott Fitzgerald,4.4,11616,7,2013,Fiction
+The Great Gatsby,F. Scott Fitzgerald,4.4,11616,7,2014,Fiction
+The Guardians: A Novel,John Grisham,4.5,13609,14,2019,Fiction
+The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,4.7,8587,10,2009,Fiction
+The Handmaid's Tale,Margaret Atwood,4.3,29442,7,2017,Fiction
+The Harbinger: The Ancient Mystery that Holds the Secret of America's Future,Jonathan Cahn,4.6,11098,13,2012,Fiction
+The Hate U Give,Angie Thomas,4.8,9947,11,2018,Fiction
+The Help,Kathryn Stockett,4.8,13871,6,2009,Fiction
+The Help,Kathryn Stockett,4.8,13871,6,2010,Fiction
+The Help,Kathryn Stockett,4.8,13871,8,2011,Fiction
+The Help,Kathryn Stockett,4.8,13871,7,2011,Fiction
+"The House of Hades (Heroes of Olympus, Book 4)",Rick Riordan,4.8,6982,14,2013,Fiction
+The Hunger Games,Suzanne Collins,4.7,32122,14,2010,Fiction
+The Hunger Games (Book 1),Suzanne Collins,4.7,32122,8,2011,Fiction
+The Hunger Games (Book 1),Suzanne Collins,4.7,32122,8,2012,Fiction
+The Hunger Games Trilogy Boxed Set (1),Suzanne Collins,4.8,16949,30,2011,Fiction
+The Hunger Games Trilogy Boxed Set (1),Suzanne Collins,4.8,16949,30,2012,Fiction
+The Immortal Life of Henrietta Lacks,Rebecca Skloot,4.7,9289,13,2010,Non Fiction
+The Immortal Life of Henrietta Lacks,Rebecca Skloot,4.7,9289,9,2011,Non Fiction
+The Immortal Life of Henrietta Lacks,Rebecca Skloot,4.7,9289,9,2012,Non Fiction
+The Instant Pot Electric Pressure Cooker Cookbook: Easy Recipes for Fast & Healthy Meals,Laurel Randolph,4.3,7368,7,2017,Non Fiction
+The Instant Pot Electric Pressure Cooker Cookbook: Easy Recipes for Fast & Healthy Meals,Laurel Randolph,4.3,7368,7,2018,Non Fiction
+The Last Lecture,Randy Pausch,4.7,4028,9,2009,Non Fiction
+"The Last Olympian (Percy Jackson and the Olympians, Book 5)",Rick Riordan,4.8,4628,7,2009,Fiction
+"The Last Olympian (Percy Jackson and the Olympians, Book 5)",Rick Riordan,4.8,4628,7,2010,Fiction
+The Legend of Zelda: Hyrule Historia,Patrick Thorpe,4.9,5396,20,2013,Fiction
+The Lego Ideas Book: Unlock Your Imagination,Daniel Lipkowitz,4.4,4247,13,2011,Non Fiction
+The Lego Ideas Book: Unlock Your Imagination,Daniel Lipkowitz,4.4,4247,13,2012,Non Fiction
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Marie Kondō,4.5,22641,11,2015,Non Fiction
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Marie Kondō,4.5,22641,11,2016,Non Fiction
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Marie Kondō,4.5,22641,11,2017,Non Fiction
+The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Marie Kondō,4.5,22641,11,2019,Non Fiction
+The Litigators,John Grisham,4.4,6222,18,2011,Fiction
+"The Lost Hero (Heroes of Olympus, Book 1)",Rick Riordan,4.8,4506,14,2010,Fiction
+The Lost Symbol,Dan Brown,4.2,8747,19,2009,Fiction
+The Love Dare,Stephen Kendrick,4.8,1655,13,2009,Non Fiction
+The Magnolia Story,Chip Gaines,4.9,7861,5,2016,Non Fiction
+"The Mark of Athena (Heroes of Olympus, Book 3)",Rick Riordan,4.8,6247,10,2012,Fiction
+The Martian,Andy Weir,4.7,39459,9,2015,Fiction
+The Maze Runner (Book 1),James Dashner,4.5,10101,8,2014,Fiction
+The Meltdown (Diary of a Wimpy Kid Book 13),Jeff Kinney,4.8,5898,8,2018,Fiction
+The Mueller Report,The Washington Post,4.6,2744,12,2019,Non Fiction
+The Nightingale: A Novel,Kristin Hannah,4.8,49288,11,2015,Fiction
+The Nightingale: A Novel,Kristin Hannah,4.8,49288,11,2016,Fiction
+The Official SAT Study Guide,The College Board,4.4,1201,40,2010,Non Fiction
+The Official SAT Study Guide,The College Board,4.4,1201,40,2011,Non Fiction
+The Official SAT Study Guide,The College Board,4.4,1201,40,2012,Non Fiction
+The Official SAT Study Guide,The College Board,4.4,1201,40,2013,Non Fiction
+The Official SAT Study Guide,The College Board,4.4,1201,40,2014,Non Fiction
+"The Official SAT Study Guide, 2016 Edition (Official Study Guide for the New Sat)",The College Board,4.3,807,36,2016,Non Fiction
+The Paris Wife: A Novel,Paula McLain,4.3,3759,16,2011,Fiction
+"The Pioneer Woman Cooks: A Year of Holidays: 140 Step-by-Step Recipes for Simple, Scrumptious Celebrations",Ree Drummond,4.8,2663,17,2013,Non Fiction
+"The Pioneer Woman Cooks: Dinnertime - Comfort Classics, Freezer Food, 16-minute Meals, and Other Delicious Ways to Solve…",Ree Drummond,4.8,3428,14,2015,Non Fiction
+The Pioneer Woman Cooks: Food from My Frontier,Ree Drummond,4.8,2876,21,2012,Non Fiction
+"The Plant Paradox Cookbook: 100 Delicious Recipes to Help You Lose Weight, Heal Your Gut, and Live Lectin-Free",Dr. Steven R Gundry MD,4.5,3601,18,2018,Non Fiction
+"The Plant Paradox: The Hidden Dangers in ""Healthy"" Foods That Cause Disease and Weight Gain",Dr. Steven R Gundry MD,4.4,7058,17,2018,Non Fiction
+The Pout-Pout Fish,Deborah Diesen,4.8,9784,5,2017,Fiction
+The Pout-Pout Fish,Deborah Diesen,4.8,9784,5,2018,Fiction
+The Power of Habit: Why We Do What We Do in Life and Business,Charles Duhigg,4.6,10795,21,2012,Non Fiction
+The President Is Missing: A Novel,James Patterson,4.3,10191,18,2018,Fiction
+The Racketeer,John Grisham,4.3,14493,18,2012,Fiction
+"The Red Pyramid (The Kane Chronicles, Book 1)",Rick Riordan,4.6,2186,12,2010,Fiction
+"The Road to Serfdom: Text and Documents--The Definitive Edition (The Collected Works of F. A. Hayek, Volume 2)",F. A. Hayek,4.6,1204,14,2010,Non Fiction
+"The Serpent's Shadow (The Kane Chronicles, Book 3)",Rick Riordan,4.8,2091,12,2012,Fiction
+The Shack: Where Tragedy Confronts Eternity,William P. Young,4.6,19720,8,2009,Fiction
